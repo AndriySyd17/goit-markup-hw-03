@@ -263,6 +263,9 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
+    
 }
 
 .part-footer-logo {
@@ -273,8 +276,6 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    display: inline-block;
-    margin-bottom: 16px;
 }
 
 .footer-text {
@@ -283,4 +284,5 @@ img {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+
 }
