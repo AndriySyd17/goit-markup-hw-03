@@ -186,7 +186,7 @@ body {
     gap: 24px;
 }
 
-.section-features-item {
+.section-feature-item {
     width: calc((100% - 72px) / 4);
 }
 
