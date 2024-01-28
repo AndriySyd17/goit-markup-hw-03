@@ -183,7 +183,7 @@ body {
 
 .section-feature-list {
     display: flex;
-    gap: 24px;
+    gap: 24px; 
 }
 
 .section-feature-item {
