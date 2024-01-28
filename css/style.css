@@ -181,12 +181,12 @@ body {
     overflow: hidden;
 }
 
-.section-feature-list {
+.section-features-list {
     display: flex;
     gap: 24px; 
 }
 
-.section-feature-item {
+.section-features-item {
     width: calc((100% - 72px) / 4);
 }
 
