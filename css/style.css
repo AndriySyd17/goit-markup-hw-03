@@ -167,6 +167,10 @@ body {
     padding: 120px 0;
 }
 
+.visually-hidden {
+    
+}
+
 .section-features-list {
     display: flex;
     gap: 24px;
