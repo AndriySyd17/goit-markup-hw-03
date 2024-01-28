@@ -9,9 +9,8 @@ a {
 
 ul, li {
     list-style-type: none;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
 }
 
 img {
@@ -40,6 +39,7 @@ body {
 }
 .header-container {
     display: flex;
+    align-items: center;
 }
 
 .header {
@@ -66,6 +66,7 @@ body {
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-right: 76px;
 }
 
 .part-header-logo {
@@ -96,9 +97,13 @@ body {
 
 .header-address {
     font-style: normal;
-
+    margin-left: auto;
 }
 
+.header-address-list {
+    display: flex;
+    gap: 40px;
+}
 
 .header-address-item {
     color: #434455;
@@ -166,6 +171,10 @@ body {
     display: flex;
     gap: 24px;
 }
+.section-features-item {
+    width: calc((100% - 72px) / 4);
+
+}
 
 .features-name {
     color: #2E2F42;
@@ -174,6 +183,7 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
     
 }
 
