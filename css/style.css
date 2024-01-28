@@ -1,9 +1,3 @@
-body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-}
-
 p, h1,h2,h3,h4,h5,h6 {
     margin-top: 0;
     margin-bottom: 0;
@@ -23,6 +17,21 @@ ul {
 img {
     display: block;
 }
+
+address {
+    font-style: normal;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
 .container {
     width: 1158px;
     padding-left: 15px;
