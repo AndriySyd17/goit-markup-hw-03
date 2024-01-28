@@ -181,7 +181,7 @@ body {
     overflow: hidden;
 }
 
-.section-features-list {
+.section-feature-list {
     display: flex;
     gap: 24px;
 }
