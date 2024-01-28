@@ -38,6 +38,9 @@ body {
     padding-right: 15px;
     margin: 0 auto;
 }
+.header-container {
+    display: flex;
+}
 
 .header {
     padding-top: 24px;
