@@ -136,6 +136,7 @@ body {
     line-height: 1.07;
     letter-spacing: 0.02em;
     max-width: 496px;
+    margin: 0 auto 48px auto;
 }
 
 .section-button {
@@ -153,6 +154,7 @@ body {
     height: 56px;
     border: none;
     border-radius: 4px; 
+    margin: 0 auto;
 }
 
 .section-button :hover {
@@ -337,5 +339,5 @@ body {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
+    max-width: 264px;
 }
